@@ -12,9 +12,7 @@ ul {
   font-size: 45px;
   position: absolute;
 }
-a {
-  color: black;
-}
+
 .container {
   display: block;
   position: absolute;
@@ -95,4 +93,10 @@ h2 {
 button {
   position: relative;
   top: 0px;
+}
+a {
+  display: block;
+  text-align: center;
+  margin-top: 300px;
+  font-size: 30px;
 }
